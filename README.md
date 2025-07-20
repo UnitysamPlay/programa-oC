@@ -1,3 +1,4 @@
+
 <!-- README Futurista - AURIA por Tiago Santos do Carmo -->
 
 <h1 align="center">⚡ Tiago Santos do Carmo</h1>
@@ -14,6 +15,50 @@
 Sou um desenvolvedor apaixonado por **inteligência artificial**, **interfaces imersivas** e **sistemas autônomos**.  
 Criei a **AURIA**, uma assistente virtual com *autoaprendizado*, *redes neurais*, *avatar 3D*, *HUD futurista* e comandos naturais por voz e texto.  
 Minha missão? Fundir tecnologia com visão de futuro e criar sistemas que **aprendem, evoluem e interagem como humanos**.
+
+---
+
+### 🎓 Formação Acadêmica
+
+- **Graduação Tecnológica em Análise e Desenvolvimento de Sistemas**  
+  Faculdade Estácio de Sá — *2025 a 2027*
+
+---
+
+### 🧠 Experiência Profissional
+
+- **Técnico em Infraestrutura de Redes**  
+  *Mais de 5 anos* | PIB TELECOM | DISPOR TELECOM | TRANSDADOS TELECOM | UNE TELECOM | ARIAS INTERNET
+
+> Instalação e manutenção de redes, enlaces de rádio licenciados (SIAE), redes ópticas e roteadores Mikrotik.  
+> Atuação com IRLA, Windows/Linux, bancos MySQL e configuração de equipamentos de comunicação.
+
+---
+
+### 🛠️ Habilidades Técnicas
+
+- **Roteamento Avançado:** Mikrotik e redes de alto desempenho  
+- **Programação:** Python, PHP e automações  
+- **Redes:** LAN, fibra óptica, rádio (2.4GHz, 5.8GHz)  
+- **Banco de Dados:** MySQL  
+- **Sistemas Operacionais:** Windows e Linux  
+- **Hardware:** Manutenção de microcomputadores
+
+---
+
+### 📜 Certificados
+
+- Mikrotik Avançado (Tecnoponta)  
+- Rádio SIAE Alpha_CLPlus (SIAE Micro Eletrônica)  
+- Técnico IRLA  
+- Redes de Computadores
+
+---
+
+### 🌐 Idiomas
+
+- **Português:** Nativo  
+- **Inglês:** Básico *(em aprimoramento)*
 
 ---
 
@@ -66,7 +111,7 @@ Minha missão? Fundir tecnologia com visão de futuro e criar sistemas que **apr
 
 ---
 
-### 🌐 Contato
+### 📫 Contato
 
 - 📧 **Email:** [tiagotechn@gmail.com](mailto:tiagotechn@gmail.com)  
 - 📱 **WhatsApp:** [+55 11 99879-3957](https://wa.me/5511998793957)  
