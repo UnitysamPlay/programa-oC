@@ -28,16 +28,16 @@ Minha missão é fundir tecnologia com visão de futuro e criar sistemas que apr
 
 ### 🧬 Projetos em destaque
 
-🔹 [**AURIA - Assistente Virtual Autônoma**](https://github.com/tiagotechn/auria)  
+🔹 [**AURIA - Assistente Virtual Autônoma**]([https://github.com/tiagotechn/auria](https://www.youtube.com/watch?v=X8FdgZGcUhk))  
 > Inteligência Artificial com autoaprendizado, voz, redes neurais e interface gráfica estilo J.A.R.V.I.S.
 
-🔹 [**AutoProgramação AURIA**](https://github.com/tiagotechn/auria_autoprogramming)  
+🔹 [**AutoProgramação AURIA**]([https://github.com/tiagotechn/auria_autoprogramming](https://www.youtube.com/watch?v=X8FdgZGcUhk))  
 > Sistema que permite à AURIA escrever, validar, testar e integrar novos códigos Python automaticamente.
 
-🔹 [**AURIA GUI Futurista (PySide6)**](https://github.com/tiagotechn/auria_gui)  
+🔹 [**AURIA GUI Futurista (PySide6)**]([https://github.com/tiagotechn/auria_gui](https://www.youtube.com/watch?v=X8FdgZGcUhk))  
 > Interface em PySide6 com HUD, avatar 3D animado, reconhecimento facial e controles visuais avançados.
 
-🔹 [**HUD Central - Estilo Sci-Fi**](https://github.com/tiagotechn/auria_hud)  
+🔹 [**HUD Central - Estilo Sci-Fi**]([https://github.com/tiagotechn/auria_hud](https://www.youtube.com/watch?v=X8FdgZGcUhk))  
 > Heads-up Display interativo, animado, com monitoramento em tempo real e controle do sistema.
 
 ---
